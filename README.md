@@ -52,11 +52,10 @@ Flag books whose reviews significantly exceed the average in their price group.
 |------|-----------------|----------|--------------------|
 |Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow|	4.8	|3129	|40-60	|
 |Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming	 |	4.7|	7767|	20-40	|
-
 |Learning Python, 5th Edition		|	4.5|	1724	|40-60	|
 |Learning Python: Powerful Object-Oriented Programming|			4.5	|1724	|40-60	|
 |Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython	|	4.6	|1686|	40-60	|
-|Pattern Recognition and Machine Learning (Information Science and Statistics)|	|4.6	687|	80+	|
+|Pattern Recognition and Machine Learning (Information Science and Statistics)	|4.6	|687|	80+	|
 
 
 
